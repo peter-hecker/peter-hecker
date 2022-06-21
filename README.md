@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @peter-hecker
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning JS, TS, Angular, React, Vue.js, Svelte... the Web
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Programming
 - 📫 How to reach me https://www.hco.de/kontakt
 
 <!---
